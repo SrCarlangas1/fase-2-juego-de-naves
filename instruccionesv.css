@@ -22,16 +22,14 @@ body
     border-color: black;
     background-color: antiquewhite;
 }
-
 p{
     color: black;
-    font-size: 64%;
+    font-size: 60%;
 }
-
 #a
 {
     position: absolute;
-    bottom: 32%;
+    bottom: 40%;
     left: 40%;
     font-size: 356%;
     text-decoration: none;
