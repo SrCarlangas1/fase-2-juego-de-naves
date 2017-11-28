@@ -1,0 +1,48 @@
+body 
+{
+	background-image: url("pantallahorizontal/fondohbn.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: black; 
+
+
+}
+#nave
+{
+    position: fixed;
+    width: 33%;
+    height: 100%;
+    top: 3%;
+    left: 35%;
+}
+#botones
+{
+    position: fixed;
+    top: 28%;
+    left: 3%;
+    width: 13%;
+}
+#marcadores
+{
+    object-fit:  scale-down;
+    position: fixed;
+    top: 34%;
+    left: 85%;
+    width: 14%;
+    height: 20%;
+}
+.navess
+{
+    position: absolute;
+    left: 30%;
+    bottom: 75%;
+    width: 100px;
+    height: 20%;
+}
+.botoness
+{
+    width: 125px;
+    margin-bottom: 80%;
+}

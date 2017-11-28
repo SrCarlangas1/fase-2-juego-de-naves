@@ -1,0 +1,62 @@
+body 
+{
+	background-image: url("pantallahorizontal/fondohbn.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: black; 
+
+
+}
+#nave
+{
+	position: fixed;
+    width: 33%;
+    height: 100%;
+    top: 3%;
+    left: 38%;
+}
+#botones
+{
+    position: fixed;
+    right: 67%;
+    height: 100%;
+    top: 70%;
+    left: 0%;
+    width: 100%
+}
+#marcadores
+{
+    position: fixed;
+    top: 25%;
+    left: 85%;
+    width: 10%;
+    height: 100%;
+}
+.navess
+{
+	position: absolute;
+    left: 30%;
+    bottom: 75%;
+    width: 100px;
+    height: 20%;
+}
+.botoness
+{
+	width: 125px;
+    margin-left: 2%;
+}
+.marcadoress
+{
+	width: 125px;
+}
+.marcadoress2
+{
+	width: 115px;
+	top: 80px;
+}
+
+{
+    z-index: 
+}
