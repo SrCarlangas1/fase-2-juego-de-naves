@@ -15,3 +15,4 @@ Indicaciones.
 5-. La pagina principal del juego esta compuesta por 3 div y cada uno de ellos estan los menus la naves y los marcadores y tambien hipervinculos para ir a otra paginas del juego.
 6-. Se aumenta el tamaño de los marcadores desde el div.
 7-. Se ponen margenes, aumento de tamaño y movimiento de los div.
+
