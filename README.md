@@ -16,3 +16,6 @@ Indicaciones.
 6-. Se aumenta el tamaño de los marcadores desde el div.
 7-. Se ponen margenes, aumento de tamaño y movimiento de los div.
 
+
+
+Hay una raiz donde estan los ficheros mimificados se llama versón mimificada.
